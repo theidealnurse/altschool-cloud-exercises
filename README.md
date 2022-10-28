@@ -1,1 +1,1 @@
-setting up my readme file for AltSchool Africa
+My AltSchool Africa exercises and projects.
